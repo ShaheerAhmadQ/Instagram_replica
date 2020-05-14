@@ -1,5 +1,5 @@
 {
-  "name": "loc8r",
+  "name": "instagram_replica",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -43,5 +43,17 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
-  }
+  },
+  "description": "A photo-sharing social networking service!\r * Post photos you want to keep on your profile grid. \r * Browse photos from people you follow in your feed. \r * Share photos to your story. \r * Interact with posts you care about with comments.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaheerAhmadQ/Instagram_replica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaheerAhmadQ/Instagram_replica/issues"
+  },
+  "homepage": "https://github.com/ShaheerAhmadQ/Instagram_replica#readme"
 }
